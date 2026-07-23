@@ -1,61 +1,94 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:0D1117&height=180&section=header&text=Masab%20Ejaz&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="header" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&color=2E9EF7&center=true&vCenter=true&width=600&lines=Founder+%40+Paandaaa;System+Designer;AI+%2F+ML+Engineer;Custom+Software+Engineer" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:0D1117&height=120&section=header" alt="header" />
 
-<p align="center">
-  <a href="https://paandaaa.ai"><img src="https://img.shields.io/badge/-Website-2E9EF7?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+<br/>
 
----
+# Masab Ejaz
 
-### About
+**Founder @ Paandaaa · AI/ML Engineer · System Designer**
 
-Founder of **[Paandaaa](https://paandaaa.ai)**, an AI-powered EdTech company. I work across system design, AI/ML, and mobile/backend engineering — and teach programming and AI concepts on the side. Based in Pakistan.
+<br/>
 
-```javascript
-const masab = {
-  role: ["Founder @ Paandaaa", "System Designer", "AI/ML Engineer"],
-  languages: ["Kotlin", "Python", "Java", "JavaScript"],
-  mobile: ["Jetpack Compose", "Clean Architecture", "Hilt", "Room", "Swift"],
-  backend: ["Spring Boot", "Node.js", "Firebase", "REST APIs"],
-  ai_ml: ["TensorFlow", "PyTorch", "Applied ML Systems"],
-  currently: "Building Paandaaa — AI-powered EdTech"
-};
-```
+<a href="https://paandaaa.com">
+  <img src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=safari&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/itsmasabejaz/">
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/itsmasabejaz/">
+  <img src="https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&logoColor=white" />
+</a>
+<a href="mailto:your-email@example.com">
+  <img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white" />
+</a>
 
----
+</div>
 
-### Company
+<br/>
 
-| | |
-|---|---|
-| **Paandaaa** | AI-powered EdTech · [paandaaa.ai](https://paandaaa.com) |
+## About
 
----
+Building **[Paandaaa](https://paandaaa.com)** — an AI-powered EdTech company.
 
-### Tech Stack
+Focused on applied AI/ML systems, mobile engineering, and clean architecture. I design systems end to end: model, backend, and product — and share what I learn along the way.
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=kotlin,java,swift,androidstudio,python,tensorflow,pytorch,spring,firebase,nodejs,git&theme=dark" />
-</p>
+<br/>
 
----
+## Stack
 
-### GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsmasabejaz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsmasabejaz&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=kotlin,swift,python,java,js&theme=dark" />
 
----
+**AI / ML**
+<br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,py&theme=dark" />
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2E9EF7&height=100&section=footer" alt="footer" />
-</p>
+**Mobile**
+<br/>
+<img src="https://skillicons.dev/icons?i=androidstudio,materialui&theme=dark" />
+
+**Backend & Infra**
+<br/>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,firebase,git,githubactions&theme=dark" />
+
+</div>
+
+<br/>
+
+## Currently
+
+- 🧠 Building AI-powered learning experiences at **Paandaaa**
+- 📱 Developing **RentIt** — Android rental marketplace app
+- 🔬 Applied ML systems, on-device inference, and clean mobile architecture
+- ✍️ Writing and teaching system design & AI concepts
+
+<br/>
+
+## GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=itsmasabejaz&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=c9d1d9&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmasabejaz&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=2E9EF7&text_color=c9d1d9" width="30%" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=itsmasabejaz&theme=dark&hide_border=true&background=0D1117&ring=2E9EF7&fire=2E9EF7&currStreakLabel=2E9EF7" width="80%" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=itsmasabejaz&theme=github-compact&bg_color=0D1117&color=2E9EF7&line=2E9EF7&point=ffffff&hide_border=true" width="100%" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:0D1117&height=100&section=footer" alt="footer" />
+
+</div>
