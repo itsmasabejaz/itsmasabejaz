@@ -1,94 +1,66 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:0D1117&height=120&section=header" alt="header" />
-
-<br/>
-
 # Masab Ejaz
 
-**Founder @ Paandaaa · AI/ML Engineer · System Designer**
+**AI/ML Engineer · Founder @ Paandaaa · System Designer**
 
-<br/>
+[![Website](https://img.shields.io/badge/Website-paandaaa.com-0D1117?style=flat-square&logo=safari&logoColor=white)](https://paandaaa.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itsmasabejaz/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-0D1117?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/itsmasabejaz/)
 
-<a href="https://paandaaa.com">
-  <img src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=safari&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/itsmasabejaz/">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/itsmasabejaz/">
-  <img src="https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&logoColor=white" />
-</a>
-<a href="mailto:your-email@example.com">
-  <img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white" />
-</a>
-
-</div>
-
-<br/>
+---
 
 ## About
 
-Building **[Paandaaa](https://paandaaa.com)** — an AI-powered EdTech company.
+I'm the founder of [Paandaaa](https://paandaaa.com), an AI-powered EdTech company focused on building more personalized and effective learning experiences.
 
-Focused on applied AI/ML systems, mobile engineering, and clean architecture. I design systems end to end: model, backend, and product — and share what I learn along the way.
+My work sits at the intersection of applied AI/ML, mobile engineering, and product development. I design and build systems end to end—from models and backend services to polished user experiences—with an emphasis on clean architecture, reliability, and practical impact.
 
-<br/>
+## Current Focus
 
-## Stack
+- Building AI-powered learning experiences at **Paandaaa**
+- Developing **RentIt**, an Android rental marketplace application
+- Designing applied ML systems and on-device inference workflows
+- Writing and teaching system design, software architecture, and AI concepts
+
+## Technical Expertise
+
+| Area | Technologies |
+| --- | --- |
+| **Languages** | Python, Kotlin, Swift, Java, JavaScript |
+| **AI / ML** | TensorFlow, PyTorch, applied ML, on-device inference |
+| **Mobile** | Android, Kotlin, Swift, Material Design |
+| **Backend** | Spring Boot, Node.js, Firebase |
+| **Infrastructure** | Git, GitHub Actions, CI/CD, cloud architecture |
+
+## Selected Interests
+
+- Applied artificial intelligence and machine learning
+- Scalable backend and mobile architecture
+- Developer experience and clean, maintainable systems
+- Building technology that solves meaningful problems
+
+## Connect
+
+- **Website:** [paandaaa.com](https://paandaaa.com)
+- **LinkedIn:** [linkedin.com/in/itsmasabejaz](https://www.linkedin.com/in/itsmasabejaz/)
+- **Instagram:** [@itsmasabejaz](https://www.instagram.com/itsmasabejaz/)
+
+## GitHub Activity
 
 <div align="center">
 
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=kotlin,swift,python,java,js&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=itsmasabejaz&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=c9d1d9&count_private=true" alt="Masab's GitHub statistics" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmasabejaz&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=2E9EF7&text_color=c9d1d9" alt="Most used programming languages" width="38%" />
 
-**AI / ML**
-<br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,py&theme=dark" />
+<br />
 
-**Mobile**
-<br/>
-<img src="https://skillicons.dev/icons?i=androidstudio,materialui&theme=dark" />
-
-**Backend & Infra**
-<br/>
-<img src="https://skillicons.dev/icons?i=spring,nodejs,firebase,git,githubactions&theme=dark" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=itsmasabejaz&theme=dark&hide_border=true&background=0D1117&ring=2E9EF7&fire=2E9EF7&currStreakLabel=2E9EF7" alt="GitHub contribution streak" width="80%" />
 
 </div>
 
-<br/>
-
-## Currently
-
-- 🧠 Building AI-powered learning experiences at **Paandaaa**
-- 📱 Developing **RentIt** — Android rental marketplace app
-- 🔬 Applied ML systems, on-device inference, and clean mobile architecture
-- ✍️ Writing and teaching system design & AI concepts
-
-<br/>
-
-## GitHub
+---
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=itsmasabejaz&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=c9d1d9&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmasabejaz&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=2E9EF7&text_color=c9d1d9" width="30%" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=itsmasabejaz&theme=dark&hide_border=true&background=0D1117&ring=2E9EF7&fire=2E9EF7&currStreakLabel=2E9EF7" width="80%" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=itsmasabejaz&theme=github-compact&bg_color=0D1117&color=2E9EF7&line=2E9EF7&point=ffffff&hide_border=true" width="100%" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:0D1117&height=100&section=footer" alt="footer" />
+*Building thoughtful products with intelligent systems.*
 
 </div>
